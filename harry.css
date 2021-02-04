@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, red, gold);
+}
+
+p {
+    font-family: 'Charmonman', cursive;
+    color: whitesmoke
+}
